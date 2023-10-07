@@ -2,7 +2,7 @@
 
 - ⚡ This Repository is Based on Basic C++ Projects by Pragyesh Jain
 
-- 🔭 Currently I Stopped Working on these Projects because I didn't learn Complete Language yet.
+- 🔭 Currently I making more Projects because I didn't learn Complete Language yet 😄.
 
 - 💬 Ask me anything related to my Repositories on Issue Section or on my E-mail ID. 
 
